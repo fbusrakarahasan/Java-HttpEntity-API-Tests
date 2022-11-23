@@ -1,6 +1,3 @@
-<h1 align="center"> :bookmark_tabs: Enuygun - Test Automation Bootcamp - HW4 </h1>
- 
-
 > ##  ``` HttpEntity - PetStore API Testi   ``` 
  
 https://petstore.swagger.io/#/store/ store path endpointlerin API testinin yazılması.
